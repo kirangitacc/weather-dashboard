@@ -56,5 +56,9 @@ This project uses two weather APIs:
 - Add more chart visualizations for wind speed and humidity trends.
 
 ### License
+<<<<<<< HEAD
 This project is open-source and available under the MIT License.
 
+=======
+This project is open-source and available under the MIT License.
+>>>>>>> f6c386e (Your commit message)
